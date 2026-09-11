@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isansoft.github.io/snippets-lwo3qa/sitemap.xml
